@@ -11,9 +11,18 @@ Demo available [here](https://www.edu.louispetit.be/demo/moar-demo).
 </p>
 
 ## Reference
+If you find our repository useful, please consider giving it a star ⭐ and citing our paper in your work:
 
-- L. Petit, and A. Desbiens. MOAR Planner: Multi-Objective and Adaptive Risk-Aware Path Planning for Infrastructure Inspection with a UAV. IEEE International Conference on Robotics and Automation (ICRA). Yokohama, Japan, 2024. 
+``` bibtex
+@inproceedings{petit2021rrtrope,
+  title={{MOAR Planner}: Multi-Objective and Adaptive Risk-Aware Path Planning for Infrastructure Inspection with a UAV},
+  author={Louis Petit and Alexis Lussier Desbiens},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2024},
+  organization={IEEE}
+}
+```
 
 ## Author
 
-[Louis Petit](https://edu.louispetit.be) (louispetit87@gmail.com)
+[Louis Petit](https://edu.louispetit.be) (louis.petit@usherbrooke.ca)
